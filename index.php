@@ -1,4 +1,4 @@
 <?php
 /**
- * Headers
+ * Header
  */
